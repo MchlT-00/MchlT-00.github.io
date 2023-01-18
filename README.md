@@ -13,5 +13,7 @@ then push to github(in github desktop)
 
 to edit you can go to your text editor then you can commit and push inside of your text-editor.
 
+pag d nag load si img try mo i check yung sa place ng assets mo if naiba ba o hindi
+/subfolder/img
 
 
